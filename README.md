@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # 👋 Hi, I'm Manpreet Kaur!
@@ -9,13 +9,13 @@
 </div>
 
 ## 🛠️ **Skills & Tools**
-```
+
 🔹 Languages: Python, JavaScript, HTML, CSS  
 🔹 Future Learning: C++ (upcoming), CompTIA Security+  
 🔹 Tools: Git/GitHub, VS Code, Linux/Ubuntu, Figma  
 🔹 Interests: Web Development, Cybersecurity, Open Source  
 🔹 Experience: 3+ years home tutoring (Maths, Science, PE)
-```
+
 
 ## ✨ **Featured Projects**
 
@@ -45,22 +45,19 @@
 **GitHub**: manpreetkaur292006-design  
 
 ## 🎯 **Currently Learning**
-```
+
 🔹 Advanced Data Structures & Algorithms (LeetCode grind)
 🔹 C++ programming fundamentals  
 🔹 CompTIA Security+ certification
 🔹 Full-stack web development frameworks
 🔹 Open source contribution (club events & hackathons)
-```
+
 
 ## 📈 **GitHub Stats**
 **Active Contributor** | **Consistent Commits** | **Open Source Enthusiast**
-
----
 
 <div align="center">
 **💼 Open to Internships & Open Source Collaborations**  
 **📧 Contact me via GitHub Issues**  
 **📍 Gurugram, Haryana**
 </div>
-```

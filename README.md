@@ -4,17 +4,16 @@
 # 👋 Hi, I'm Manpreet Kaur!
 
 **BTech Computer Science Engineering | K.R. Mangalam University**  
-**Web Development | Open Source | Cybersecurity | Python & JavaScript**
+**Web Development | Open Source | Python & JavaScript**
 
 </div>
 
 ## 🛠️ **Skills & Tools**
 
-🔹 Languages: Python, JavaScript, HTML, CSS  
-🔹 Future Learning: C++ (upcoming), CompTIA Security+  
+🔹 Languages: Python, JavaScript, HTML, CSS   
 🔹 Tools: Git/GitHub, VS Code, Linux/Ubuntu, Figma  
-🔹 Interests: Web Development, Cybersecurity, Open Source  
-🔹 Experience: 3+ years home tutoring (Maths, Science, PE)
+🔹 Interests: Web Development, Open Source  
+🔹 Experience: 4 years home tutoring (Maths, Science, PE)
 
 
 ## ✨ **Featured Projects**
@@ -47,8 +46,6 @@
 ## 🎯 **Currently Learning**
 
 🔹 Advanced Data Structures & Algorithms (LeetCode grind)
-🔹 C++ programming fundamentals  
-🔹 CompTIA Security+ certification
 🔹 Full-stack web development frameworks
 🔹 Open source contribution (club events & hackathons)
 

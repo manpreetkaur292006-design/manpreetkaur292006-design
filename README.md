@@ -1,60 +1,148 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Manpreet Kaur!
+# Hi, I'm Manpreet Kaur 👋
 
-**BTech Computer Science Engineering | K.R. Mangalam University**  
-**Web Development | Open Source | Python & JavaScript**
+### B.Tech CSE @ K.R. Mangalam University | Frontend Developer | Open Source Contributor
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C5CE7?style=for-the-badge&logo=vercel&logoColor=white)](https://manpreet-kaur-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manpreetkaur-mk29)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manpreetkaur292006@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=manpreetkaur292006-design&color=6C5CE7&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/manpreetkaur292006-design?style=flat-square&color=6C5CE7&label=Followers)
 
 </div>
 
-## 🛠️ **Skills & Tools**
+---
 
-🔹 Languages: Python, JavaScript, HTML, CSS   
-🔹 Tools: Git/GitHub, VS Code, Linux/Ubuntu, Figma  
-🔹 Interests: Web Development, Open Source  
-🔹 Experience: 4 years home tutoring (Maths, Science, PE)
+### 👩‍💻 About Me
 
+- 🎓 B.Tech Computer Science Engineering student at **K.R. Mangalam University** (CGPA: 9.91)
+- 🌱 Currently strengthening my **DSA, OOP, and full-stack web development** fundamentals
+- 💡 Building responsive, user-focused web applications with **React.js**
+- 🤝 Actively contributing to open source through **Nexus Spring of Code (NSoC)**
+- 👩‍🏫 4+ years of teaching experience — mentored 18+ students to a 100% pass rate
+- 📍 Based in Jalandhar, Punjab, India | Open to internships & collaborations
 
-## ✨ **Featured Projects**
+---
 
-### 🔄 **Currently Contributing**
-- **[Nexus-SOSC](https://github.com/manpreetkaur292006-design/Nexus-SOSC)**  
-  _Nexus Spring of Code (NSoC) open source project_  
-  ✅ Active PRs & fork workflow
+### 🛠️ Tech Stack
 
-- **[Projexa-Repo](https://github.com/manpreetkaur292006-design/Projexa-Repo)**  
-  _Web development project_  
-  ✅ Git fork workflow mastery & merge conflict resolution
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🚀 **Key Projects**
-- **[LINUX-COMMANDS-AND-SCRIPT](https://github.com/manpreetkaur292006-design/LINUX-COMMANDS-AND-SCRIPT)**  
-  _Linux commands & shell scripting learning resource_  
-  ✅ Professional README implementation
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
 
-- **DECOR-SECTION**  
-  _Minor project semester 2 - Web development_
+**Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-- **Club Event Contributions**  
-  _Multiple open source repositories (max commits challenge)_
+**Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 
-## 📊 **Profiles**
-**LeetCode**: Manpreet_Kaur29  
-**LinkedIn**: Manpreet Kaur (K.R. Mangalam University)  
-**GitHub**: manpreetkaur292006-design  
+---
 
-## 🎯 **Currently Learning**
+### 🚀 Featured Projects
 
-🔹 Advanced Data Structures & Algorithms (LeetCode grind)
-🔹 Full-stack web development frameworks
-🔹 Open source contribution (club events & hackathons)
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🐝 Focus Bee</h4>
+      <p>A responsive productivity SPA built with React.js to help users stay focused and organize tasks, using reusable components and clean state management.</p>
+      <p>
+        <b>Stack:</b> React.js, JavaScript, HTML5, CSS3, React Router<br/>
+        <a href="https://github.com/manpreetkaur292006-design">GitHub</a> · Live Demo
+      </p>
+    </td>
+    <td width="50%">
+      <h4>🛒 E-Commerce Website (Team Project)</h4>
+      <p>Collaborated on a responsive e-commerce platform — designed the Decor section, product listings, and dynamic layouts using Git-based team workflows.</p>
+      <p>
+        <b>Stack:</b> HTML5, CSS3, JavaScript<br/>
+        <a href="https://github.com/manpreetkaur292006-design">GitHub</a> · Live Demo
+      </p>
+    </td>
+  </tr>
+</table>
 
+**🔄 Currently Contributing**
 
-## 📈 **GitHub Stats**
-**Active Contributor** | **Consistent Commits** | **Open Source Enthusiast**
+| Project | Description |
+|---|---|
+| [Nexus-SOSC](https://github.com/manpreetkaur292006-design/Nexus-SOSC) | Nexus Spring of Code (NSoC) open source project — active PRs & fork workflow |
+| [Projexa-Repo](https://github.com/manpreetkaur292006-design/Projexa-Repo) | Web development project — Git fork workflow & merge conflict resolution |
+| [LINUX-COMMANDS-AND-SCRIPT](https://github.com/manpreetkaur292006-design/LINUX-COMMANDS-AND-SCRIPT) | Linux commands & shell scripting learning resource with a professional README |
+
+---
+
+### 📜 Certifications
+
+- ✅ Git & GitHub — Simplilearn
+- ✅ SQL — Simplilearn
+- ✅ AI Workshop — EduNovas
+
+### 🏆 Achievements
+
+- 🥉 Secured Overall 3rd Position — Class XII, CBSE (91.6%)
+- 🥉 Secured Overall 3rd Position — Class X, PSEB (93.69%)
+- 🎯 CGPA of 9.91 in 1st Semester, B.Tech CSE
+- 👩‍🏫 Mentored 18+ students to a 100% pass rate, guiding 5 to Top 3 school ranks
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-**💼 Open to Internships & Open Source Collaborations**  
-**📧 Contact me via GitHub Issues**  
-**📍 Gurugram, Haryana**
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreetkaur292006-design&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreetkaur292006-design&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manpreetkaur292006-design&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manpreetkaur292006-design&theme=redical&hide_border=true" alt="Contribution Activity Graph" width="90%"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/manpreetkaur292006-design/manpreetkaur292006-design/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+> Note: the snake animation needs a one-time GitHub Action set up in this repo. See the setup note at the bottom of this file.
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-manpreet--kaur--portfolio-6C5CE7?style=flat-square)](https://manpreet-kaur-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Manpreet__Kaur29-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Manpreet_Kaur29)
+[![Email](https://img.shields.io/badge/Email-manpreetkaur292006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manpreetkaur292006@gmail.com)
+
+💼 **Open to Internships & Open Source Collaborations**  
+📍 Jalandhar, Punjab, India
+
 </div>

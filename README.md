@@ -106,16 +106,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manpreetkaur292006-design&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreetkaur292006-design&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreetkaur292006-design&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manpreetkaur292006-design&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manpreetkaur292006-design&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">

@@ -119,7 +119,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manpreetkaur292006-design&theme=redical&hide_border=true" alt="Contribution Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manpreetkaur292006-design&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="90%"/>
 </div>
 
 ---
@@ -146,3 +146,23 @@
 📍 Jalandhar, Punjab, India
 
 </div>
+
+<br/>
+
+<details>
+<summary>⚙️ Setup notes (for you, not visible as important to viewers — click to expand)</summary>
+
+<br/>
+
+**This file goes in a special repo:** create a public repo named exactly `manpreetkaur292006-design` (same as your username) with a `README.md` in it — GitHub automatically shows that file on your profile page.
+
+**Stats, streak, top languages, trophies, activity graph** — all work automatically, no setup needed. They're live images generated from your GitHub username.
+
+**Contribution snake animation** — this one needs a one-time setup:
+1. In your profile repo, go to `Settings → Actions → General` and enable "Read and write permissions".
+2. Add a workflow file at `.github/workflows/snake.yml` using the [platane/snk](https://github.com/Platane/snk) action (search "github contribution snake action" for the exact YAML — it's a copy-paste job).
+3. Once the Action runs once, the snake image will start working in this README.
+
+If you'd rather skip the snake (it's optional and purely decorative), just delete that section — everything else works as-is.
+
+</details>

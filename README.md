@@ -65,7 +65,7 @@
       <p>
         <b>Stack:</b> React.js, JavaScript, HTML5, CSS3, React Router<br/>
         <a href="https://github.com/manpreetkaur292006-design/Focus-Bee">Repository</a> •
-<a href="https://focus-bee.netlify.app/">Live Demo</a>
+<a href="[https://focus-bee.netlify.app/](https://focusbee.netlify.app/)">Live Demo</a>
       </p>
     </td>
     <td width="50%">
@@ -73,7 +73,7 @@
       <p>Collaborated on a responsive e-commerce platform — designed the Decor section, product listings, and dynamic layouts using Git-based team workflows.</p>
       <p>
         <b>Stack:</b> HTML5, CSS3, JavaScript<br/>
-        <a href="https://github.com/manpreetkaur292006-design/Decor-Section">Repository</a>
+        <a href="https://github.com/manpreetkaur292006-design/Decor-Section-URVORA.git">Repository</a>
         <a href="https://urvora-decor-section.netlify.app/">Live Demo</a>
       </p>
     </td>

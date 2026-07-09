@@ -64,7 +64,8 @@
       <p>A responsive productivity SPA built with React.js to help users stay focused and organize tasks, using reusable components and clean state management.</p>
       <p>
         <b>Stack:</b> React.js, JavaScript, HTML5, CSS3, React Router<br/>
-        <a href="https://github.com/manpreetkaur292006-design">GitHub</a> · Live Demo
+        <a href="https://github.com/manpreetkaur292006-design/Focus-Bee">Repository</a> •
+<a href="https://focus-bee.netlify.app/">Live Demo</a>
       </p>
     </td>
     <td width="50%">
@@ -72,19 +73,20 @@
       <p>Collaborated on a responsive e-commerce platform — designed the Decor section, product listings, and dynamic layouts using Git-based team workflows.</p>
       <p>
         <b>Stack:</b> HTML5, CSS3, JavaScript<br/>
-        <a href="https://github.com/manpreetkaur292006-design">GitHub</a> · Live Demo
+        <a href="https://github.com/manpreetkaur292006-design/Decor-Section">Repository</a>
+        <a href="https://urvora-decor-section.netlify.app/">Live Demo</a>
       </p>
     </td>
   </tr>
 </table>
 
-**🔄 Currently Contributing**
+## 🔥 Open Source Contributions
 
-| Project | Description |
-|---|---|
-| [Nexus-SOSC](https://github.com/manpreetkaur292006-design/Nexus-SOSC) | Nexus Spring of Code (NSoC) open source project — active PRs & fork workflow |
-| [Projexa-Repo](https://github.com/manpreetkaur292006-design/Projexa-Repo) | Web development project — Git fork workflow & merge conflict resolution |
-| [LINUX-COMMANDS-AND-SCRIPT](https://github.com/manpreetkaur292006-design/LINUX-COMMANDS-AND-SCRIPT) | Linux commands & shell scripting learning resource with a professional README |
+| Repository | Status |
+|------------|--------|
+| [Nexus-SOSC](https://github.com/Nexus-SOSC) | 🚀 Contributor |
+| [Projexa-Repo](https://github.com/manpreetkaur292006-design/Projexa-Repo) | 🌱 Contributor |
+| [LINUX-COMMANDS-AND-SCRIPT](https://github.com/manpreetkaur292006-design/LINUX-COMMANDS-AND-SCRIPT) | ⭐ Maintainer |
 
 ---
 
@@ -103,34 +105,85 @@
 
 ---
 
-### 📊 GitHub Stats
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manpreetkaur292006-design&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreetkaur292006-design&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manpreetkaur292006-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=manpreetkaur292006-design&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manpreetkaur292006-design&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-</div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manpreetkaur292006-design&theme=react-dark&hide_border=true" alt="Contribution Activity Graph" width="90%"/>
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/manpreetkaur292006-design/manpreetkaur292006-design/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=manpreetkaur292006-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+
 </div>
 
-> Note: the snake animation needs a one-time GitHub Action set up in this repo. See the setup note at the bottom of this file.
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manpreetkaur292006-design&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 📊 GitHub Summary Cards
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manpreetkaur292006-design&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manpreetkaur292006-design&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manpreetkaur292006-design&theme=tokyonight" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manpreetkaur292006-design&theme=tokyonight&utcOffset=5.5" width="32%"/>
+
+</div>
+
+---
+
+## 📅 Contribution Statistics
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=manpreetkaur292006-design&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/manpreetkaur292006-design/manpreetkaur292006-design/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
@@ -138,31 +191,11 @@
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manpreet--kaur--portfolio-6C5CE7?style=flat-square)](https://manpreet-kaur-portfolio.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Manpreet__Kaur29-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/Manpreet_Kaur29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://manpreet-kaur-portfolio.vercel.app)
+[![Portfolio 2](https://img.shields.io/badge/Portfolio-Alternate-black?style=for-the-badge&logo=vercel)](https://manpreet-kaur-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-manpreetkaur292006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manpreetkaur292006@gmail.com)
 
 💼 **Open to Internships & Open Source Collaborations**  
 📍 Jalandhar, Punjab, India
 
 </div>
-
-<br/>
-
-<details>
-<summary>⚙️ Setup notes (for you, not visible as important to viewers — click to expand)</summary>
-
-<br/>
-
-**This file goes in a special repo:** create a public repo named exactly `manpreetkaur292006-design` (same as your username) with a `README.md` in it — GitHub automatically shows that file on your profile page.
-
-**Stats, streak, top languages, trophies, activity graph** — all work automatically, no setup needed. They're live images generated from your GitHub username.
-
-**Contribution snake animation** — this one needs a one-time setup:
-1. In your profile repo, go to `Settings → Actions → General` and enable "Read and write permissions".
-2. Add a workflow file at `.github/workflows/snake.yml` using the [platane/snk](https://github.com/Platane/snk) action (search "github contribution snake action" for the exact YAML — it's a copy-paste job).
-3. Once the Action runs once, the snake image will start working in this README.
-
-If you'd rather skip the snake (it's optional and purely decorative), just delete that section — everything else works as-is.
-
-</details>

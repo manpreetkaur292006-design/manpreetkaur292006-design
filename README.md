@@ -112,7 +112,6 @@ My goal is to become a software engineer who builds products that are not only f
 > *"Good code solves problems. Great code creates experiences."*
 
 ---
-
 # 🚀 Featured Projects
 
 <table>
@@ -120,198 +119,111 @@ My goal is to become a software engineer who builds products that are not only f
 
 <td width="50%" valign="top">
 
-### 🐝 Focus Bee
-
-A modern productivity web application built with **React.js** that helps users stay focused, organize tasks, and improve daily productivity.
-
-**Tech Stack**
-
-`React` • `JavaScript` • `HTML` • `CSS` • `React Router`
-
-<br>
-
-<a href="https://focusbee.netlify.app/">🌐 Live Demo</a> •
-<a href="https://github.com/manpreetkaur292006-design/Focus-Bee">📂 Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 URVORA Decor Section
-
-A responsive e-commerce interface developed collaboratively using Git and modern frontend practices.
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
-
-<br>
-
-<a href="https://urvora-decor-section.netlify.app/">🌐 Live Demo</a> •
-<a href="https://github.com/manpreetkaur292006-design/Decor-Section-URVORA">📂 Repository</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-My personal portfolio showcasing projects, skills, certifications, achievements, and development journey.
-
-**Tech Stack**
-
-`React` • `JavaScript` • `CSS`
-
-<br>
-
-<a href="https://manpreet-kaur-portfolio.vercel.app/">🔗 Visit Portfolio</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Open Source
-
-Actively contributing through **Nexus Spring of Code (NSoC)** while collaborating with developers and improving community projects.
-
-**Highlights**
-
-- Open Source Collaboration
-- Git & GitHub Workflow
-- Frontend Contributions
-
-</td>
-
-</tr>
-
-</table>
-
-### 🐝 Focus Bee
-
-A modern productivity web application built with **React.js** that helps users stay focused, organize tasks, and improve daily productivity.
-
-**Tech Stack**
-
-`React` • `JavaScript` • `HTML` • `CSS` • `React Router`
-
-<br>
-
-<a href="https://focusbee.netlify.app/">🌐 Live Demo</a> •
-<a href="https://github.com/manpreetkaur292006-design/Focus-Bee">📂 Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 URVORA Decor Section
-
-A responsive e-commerce interface developed collaboratively using Git and modern frontend practices.
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript`
-
-<br>
-
-<a href="https://urvora-decor-section.netlify.app/">🌐 Live Demo</a> •
-<a href="https://github.com/manpreetkaur292006-design/Decor-Section-URVORA">📂 Repository</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-My personal portfolio showcasing projects, skills, certifications, achievements, and development journey.
-
-**Tech Stack**
-
-`React` • `JavaScript` • `CSS`
-
-<br>
-
-<a href="https://manpreet-kaur-portfolio.vercel.app/">🔗 Visit Portfolio</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌱 Open Source
-
-Actively contributing through **Nexus Spring of Code (NSoC)** while collaborating with developers and improving community projects.
-
-**Highlights**
-
-- Open Source Collaboration
-- Git & GitHub Workflow
-- Frontend Contributions
-
-</td>
-
-</tr>
-
-</table>
-
 ## 🐝 Focus Bee
 
-A productivity web application built with **React.js** that helps users stay focused, organize tasks and improve daily productivity.
+A productivity web application built with **React.js** that helps users stay focused, organize tasks, and improve daily productivity.
 
-### Highlights
+### ✨ Highlights
 
-- ⚛️ React.js SPA
+- ⚛️ React.js Single Page Application
 - 📱 Responsive Design
-- 🎯 Clean UI
+- 🎯 Clean & Modern UI
 - 🔄 Reusable Components
-- 🧠 State Management
+- 🧠 Efficient State Management
 
-### Tech
+### 🛠 Tech Stack
 
-`React` • `JavaScript` • `HTML` • `CSS`
+`React` • `JavaScript` • `HTML5` • `CSS3` • `React Router`
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-2563EB?style=for-the-badge&logo=github)](https://github.com/manpreetkaur292006-design/Focus-Bee)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-2563EB?style=for-the-badge&logo=github)](https://github.com/manpreetkaur292006-design/Focus-Bee)
 
-[![Live](https://img.shields.io/badge/Live-Demo-1D4ED8?style=for-the-badge&logo=vercel)](https://focusbee.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-1D4ED8?style=for-the-badge&logo=vercel)](https://focusbee.netlify.app/)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🛒 URVORA Decor Section
 
-Designed and developed the Decor section of a responsive E-Commerce website while collaborating with a team using Git workflows.
+Designed and developed the Decor section of a responsive E-Commerce platform while collaborating with a team using Git workflows.
 
-### Highlights
+### ✨ Highlights
 
 - 🛍 Responsive Layout
-- 🎨 Modern UI
+- 🎨 Modern User Interface
 - 👥 Team Collaboration
-- 🌐 Git Workflow
+- 🌐 Git-based Development
+- 📦 Reusable Components
 
-### Tech
+### 🛠 Tech Stack
 
-`HTML` • `CSS` • `JavaScript`
+`HTML5` • `CSS3` • `JavaScript`
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-2563EB?style=for-the-badge&logo=github)](https://github.com/manpreetkaur292006-design/Decor-Section-URVORA)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-2563EB?style=for-the-badge&logo=github)](https://github.com/manpreetkaur292006-design/Decor-Section-URVORA)
 
-[![Live](https://img.shields.io/badge/Live-Demo-1D4ED8?style=for-the-badge&logo=netlify)](https://urvora-decor-section.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-1D4ED8?style=for-the-badge&logo=netlify)](https://urvora-decor-section.netlify.app/)
 
 </td>
 
 </tr>
-</table>
 
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 Personal Portfolio
+
+My personal portfolio showcasing my projects, technical skills, certifications, achievements, and development journey with a clean, modern interface.
+
+### ✨ Highlights
+
+- 💼 Professional Portfolio
+- 📱 Fully Responsive
+- ⚡ Fast Performance
+- 🎨 Modern UI/UX
+- 🌍 Live Deployment
+
+### 🛠 Tech Stack
+
+`React` • `JavaScript` • `CSS3` • `Vercel`
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-2563EB?style=for-the-badge&logo=vercel)](https://manpreet-kaur-portfolio.vercel.app/)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌱 Open Source
+
+Contributing to community-driven projects through **Nexus Spring of Code (NSoC)** while collaborating with developers and improving real-world repositories.
+
+### ✨ Highlights
+
+- 🤝 Community Collaboration
+- 🚀 Open Source Contributions
+- 💻 Git & GitHub Workflow
+- 📚 Documentation Improvements
+- 🌍 Team-based Development
+
+### 🛠 Skills Used
+
+`Git` • `GitHub` • `Collaboration` • `Issue Tracking`
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/View-Profile-2563EB?style=for-the-badge&logo=github)](https://github.com/manpreetkaur292006-design)
+
+</td>
+
+</tr>
+
+</table>
 ---
 
 # 🌱 Open Source
@@ -391,81 +303,6 @@ Designed and developed the Decor section of a responsive E-Commerce website whil
 </div>
 
 ---
-
-# 📂 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🐝 Focus Bee
-
-A modern productivity application built with **React.js** that helps users stay focused, organize tasks, and manage their workflow efficiently.
-
-**Tech Stack**
-
-React • JavaScript • HTML • CSS • React Router
-
-<br>
-
-[🔗 Live Demo](https://focusbee.netlify.app/) • [📁 Repository](https://github.com/manpreetkaur292006-design/Focus-Bee)
-
-</td>
-
-<td width="50%">
-
-### 🛒 URVORA Decor Section
-
-A responsive e-commerce module developed as part of a team project, featuring modern UI, reusable components, and collaborative Git workflows.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-<br>
-
-[🔗 Live Demo](https://urvora-decor-section.netlify.app/) • [📁 Repository](https://github.com/manpreetkaur292006-design/Decor-Section-URVORA)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🌐 Personal Portfolio
-
-A responsive portfolio showcasing my projects, technical skills, achievements, and development journey with a clean modern interface.
-
-**Tech Stack**
-
-React • Tailwind CSS • JavaScript
-
-<br>
-
-[🌍 Visit Portfolio](https://manpreet-kaur-portfolio.vercel.app/)
-
-</td>
-
-<td width="50%">
-
-### 🌱 Open Source
-
-Contributing to community-driven projects through **Nexus Spring of Code**, collaborating with developers, fixing issues, and improving documentation.
-
-**Highlights**
-
-• Open Source Collaboration  
-• Git & GitHub Workflow  
-• Community Contributions
-
-</td>
-
-</tr>
-
-</table>
 
 # 💬 Let's Connect
 

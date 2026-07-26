@@ -113,17 +113,82 @@ My goal is to become a software engineer who builds products that are not only f
 
 ---
 
-<table>
-<tr>
-
-<td width="50%">
-
 # 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
+
+### 🐝 Focus Bee
+
+A modern productivity web application built with **React.js** that helps users stay focused, organize tasks, and improve daily productivity.
+
+**Tech Stack**
+
+`React` • `JavaScript` • `HTML` • `CSS` • `React Router`
+
+<br>
+
+<a href="https://focusbee.netlify.app/">🌐 Live Demo</a> •
+<a href="https://github.com/manpreetkaur292006-design/Focus-Bee">📂 Repository</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 URVORA Decor Section
+
+A responsive e-commerce interface developed collaboratively using Git and modern frontend practices.
+
+**Tech Stack**
+
+`HTML` • `CSS` • `JavaScript`
+
+<br>
+
+<a href="https://urvora-decor-section.netlify.app/">🌐 Live Demo</a> •
+<a href="https://github.com/manpreetkaur292006-design/Decor-Section-URVORA">📂 Repository</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing projects, skills, certifications, achievements, and development journey.
+
+**Tech Stack**
+
+`React` • `JavaScript` • `CSS`
+
+<br>
+
+<a href="https://manpreet-kaur-portfolio.vercel.app/">🔗 Visit Portfolio</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 Open Source
+
+Actively contributing through **Nexus Spring of Code (NSoC)** while collaborating with developers and improving community projects.
+
+**Highlights**
+
+- Open Source Collaboration
+- Git & GitHub Workflow
+- Frontend Contributions
+
+</td>
+
+</tr>
+
+</table>
 
 ### 🐝 Focus Bee
 

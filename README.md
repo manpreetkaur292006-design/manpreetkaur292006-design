@@ -44,7 +44,7 @@ My goal is to become a software engineer who builds products that are not only f
 
 # 💙 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/animated/developer.gif">
+<img align="right" width="320" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🎓 **B.Tech Computer Science Engineering** student at **K.R. Mangalam University**
 - 📊 Maintaining a **9.91 CGPA**

@@ -44,8 +44,7 @@ My goal is to become a software engineer who builds products that are not only f
 
 # 💙 About Me
 
-<img align="right" width="320"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
 - 🎓 **B.Tech Computer Science Engineering** student at **K.R. Mangalam University**
 - 📊 Maintaining a **9.91 CGPA**

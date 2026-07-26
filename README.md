@@ -182,8 +182,8 @@ Designed and developed the Decor section of a responsive E-Commerce website whil
 
 ### Repositories
 
-- 🔹 Projexa Repo
-- 🔹 Linux Commands and Script
+- 🔹 Focus-Bee
+- 🔹 Decor-Section-URVORA
 - 🔹 Nexus SOSC
 
 ---
@@ -285,4 +285,75 @@ Designed and developed the Decor section of a responsive E-Commerce website whil
 
 # 📂 Featured Projects
 
-Coming next...
+<table>
+<tr>
+
+<td width="50%">
+
+### 🐝 Focus Bee
+
+A modern productivity application built with **React.js** that helps users stay focused, organize tasks, and manage their workflow efficiently.
+
+**Tech Stack**
+
+React • JavaScript • HTML • CSS • React Router
+
+<br>
+
+[🔗 Live Demo](https://focusbee.netlify.app/) • [📁 Repository](https://github.com/manpreetkaur292006-design/Focus-Bee)
+
+</td>
+
+<td width="50%">
+
+### 🛒 URVORA Decor Section
+
+A responsive e-commerce module developed as part of a team project, featuring modern UI, reusable components, and collaborative Git workflows.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+<br>
+
+[🔗 Live Demo](https://urvora-decor-section.netlify.app/) • [📁 Repository](https://github.com/manpreetkaur292006-design/Decor-Section-URVORA)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+A responsive portfolio showcasing my projects, technical skills, achievements, and development journey with a clean modern interface.
+
+**Tech Stack**
+
+React • Tailwind CSS • JavaScript
+
+<br>
+
+[🌍 Visit Portfolio](https://manpreet-kaur-portfolio.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### 🌱 Open Source
+
+Contributing to community-driven projects through **Nexus Spring of Code**, collaborating with developers, fixing issues, and improving documentation.
+
+**Highlights**
+
+• Open Source Collaboration  
+• Git & GitHub Workflow  
+• Community Contributions
+
+</td>
+
+</tr>
+
+</table>

@@ -258,7 +258,7 @@ Contributing to community-driven projects through **Nexus Spring of Code (NSoC)*
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=manpreetkaur292006-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manpreetkaur292006-design&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://streak-stats.demolab.com?user=manpreetkaur292006-design&theme=tokyonight&hide_border=true"/>
 
@@ -268,7 +268,7 @@ Contributing to community-driven projects through **Nexus Spring of Code (NSoC)*
 
 <div align="center">
 
-<img width="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 

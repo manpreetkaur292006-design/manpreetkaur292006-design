@@ -44,7 +44,7 @@ My goal is to become a software engineer who builds products that are not only f
 
 # 💙 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212284126-77d7b5b8-2d8c-4d5e-a4f6-6d0b4c8b6c13.gif">
 
 - 🎓 **B.Tech Computer Science Engineering** student at **K.R. Mangalam University**
 - 📊 Maintaining a **9.91 CGPA**

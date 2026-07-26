@@ -254,7 +254,15 @@ Contributing to community-driven projects through **Nexus Spring of Code (NSoC)*
 🏅 Built multiple responsive React projects
 
 ---
+# 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manpreetkaur292006-design&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
 # 📊 GitHub Analytics
 
 <div align="center">

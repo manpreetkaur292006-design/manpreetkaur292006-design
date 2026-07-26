@@ -250,39 +250,6 @@ Designed and developed the Decor section of a responsive E-Commerce website whil
 
 ---
 
-# 💬 Let's Connect
-
-<div align="center">
-
-<a href="https://manpreet-kaur-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/manpreetkaur-mk29">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:manpreetkaur292006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 💙 Thanks for visiting my profile!
-
-*"Building beautiful experiences, one commit at a time."*
-
-⭐ If you like my work, consider following me.
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,40:1E3A8A,70:2563EB,100:3B82F6"/>
-
-
 # 📂 Featured Projects
 
 <table>
@@ -357,3 +324,35 @@ Contributing to community-driven projects through **Nexus Spring of Code**, coll
 </tr>
 
 </table>
+
+# 💬 Let's Connect
+
+<div align="center">
+
+<a href="https://manpreet-kaur-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/manpreetkaur-mk29">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:manpreetkaur292006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+*"Building beautiful experiences, one commit at a time."*
+
+⭐ If you like my work, consider following me.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,40:1E3A8A,70:2563EB,100:3B82F6"/>

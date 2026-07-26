@@ -44,37 +44,19 @@ My goal is to become a software engineer who builds products that are not only f
 
 # 💙 About Me
 
-```javascript
-const manpreet = {
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=tokyonight&hide_border=true"/>
 
-    education: "B.Tech Computer Science Engineering",
+- 🎓 **B.Tech Computer Science Engineering** student at **K.R. Mangalam University**
+- 📊 Maintaining a **9.91 CGPA**
+- 💙 Passionate about building clean and responsive web applications
+- ⚛️ Primarily working with **React.js**, **JavaScript**, and modern frontend technologies
+- 🌱 Currently learning **DSA**, **Node.js**, **System Design**, and **Backend Development**
+- 🤝 Active **Open Source Contributor** through **Nexus Spring of Code**
+- 👩‍🏫 Mentored **18+ students** with a **100% success rate**
+- 📍 Based in **Punjab, India**
+- 🎯 Looking for **Software Development Internship** opportunities
 
-    university: "K.R. Mangalam University",
-
-    cgpa: "9.91",
-
-    location: "Punjab, India",
-
-    role: "Frontend Developer",
-
-    currentlyLearning: [
-        "Data Structures & Algorithms",
-        "System Design",
-        "Node.js",
-        "Backend Development"
-    ],
-
-    interests: [
-        "Frontend Development",
-        "UI/UX",
-        "Open Source",
-        "Web Performance"
-    ],
-
-    funFact:
-        "I have mentored 18+ students with a 100% pass rate while pursuing my degree."
-}
-```
+<br clear="right"/>
 
 ---
 

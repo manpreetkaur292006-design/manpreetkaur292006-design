@@ -44,7 +44,8 @@ My goal is to become a software engineer who builds products that are not only f
 
 # 💙 About Me
 
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=tokyonight&hide_border=true"/>
+<img align="right" width="320"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetkaur292006-design&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 - 🎓 **B.Tech Computer Science Engineering** student at **K.R. Mangalam University**
 - 📊 Maintaining a **9.91 CGPA**
@@ -224,15 +225,14 @@ Contributing to community-driven projects through **Nexus Spring of Code (NSoC)*
 </tr>
 
 </table>
+
 ---
 
-# 🌱 Open Source
+## 🌱 Open Source
 
-### Programs
-
-- 🚀 Nexus Spring of Code (NSoC)
-- 🌍 Community Driven Development
-- 💙 GitHub Collaboration
+- 🚀 Nexus Spring of Code (NSoC) Contributor
+- 🤝 Collaborating on community-driven projects
+- 💻 Improving frontend experiences and documentation
 
 ### Repositories
 
@@ -252,7 +252,7 @@ Contributing to community-driven projects through **Nexus Spring of Code (NSoC)*
 
 🏅 100% Student Pass Rate
 
-🏅 Passionate Frontend Developer
+🏅 Built multiple responsive React projects
 
 ---
 
